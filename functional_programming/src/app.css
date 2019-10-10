@@ -1,0 +1,116 @@
+.product {
+  padding: 40px;
+}
+
+ul {
+  margin: 0;
+}
+
+img {
+  width: 100%;
+  border: 1px solid #e8e8e8;
+}
+
+.container {
+  width: 850px;
+  margin: auto;
+}
+
+.container>div {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.left {
+  width: 400px;
+}
+
+.right {
+  margin-left: 50px;
+  width: 400px;
+}
+
+.right>div {
+  margin-top: 16px;
+}
+
+.pictures {
+  margin-top: 16px;
+  text-align: center;
+}
+
+.pictures div {
+  display: inline-block;
+  list-style: none;
+  width: 80px;
+}
+
+.pictures div+div {
+  margin-left: 16px;
+}
+
+.price-range .value{
+  color: #FF0036;
+  font-size: 24px;
+}
+
+.label,
+.value {
+  display: inline-block;
+}
+
+.label {
+  width: 100px;
+  color: #838383;
+}
+
+.value label {
+  line-height: 40px;
+  padding: 8px;
+  border: 1px solid #b8b8b8;
+}
+
+.value label:hover {
+  padding: 7px;
+  border: 2px solid red;
+}
+
+.value label.checked {
+  padding: 7px;
+  border: 2px solid red;
+  position: relative;
+}
+.value label.checked:after{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  content: '';
+  width: 12px;
+  height: 12px;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAMAAABhq6zVAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAJUExURUxpcf8AN////7f4NBoAAAABdFJOUwBA5thmAAAAMUlEQVQI103MAQ4AMAQEQev/j66i6YrEXIKIX9jY2NjYyDmhZnlCo5rdyWvebfYDVAcSmABbA7WD+QAAAABJRU5ErkJggg==);
+  
+}
+
+.value label+label {
+  margin-left: 16px;
+}
+
+.value input {
+  display: none;
+}
+.buy{
+  margin-top: 24px;
+  text-decoration: none;
+  height: 38px;
+  line-height: 38px;
+  text-align: center;
+  font-size: 16px;
+  margin-right: 0;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  width: 178px;
+  background-color: #ffeded;
+  border: 1px solid #FF0036;
+  color: #FF0036;
+}

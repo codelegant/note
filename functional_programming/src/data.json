@@ -1,0 +1,318 @@
+{
+  "data": {
+    "skus": [
+      {
+        "imgUrl": "//img.alicdn.com/imgextra/i4/1917047079/TB2yF71XAvoK1RjSZFNXXcxMVXa_!!1917047079.jpg",
+        "marketPrice": 819900,
+        "productProps": [
+          {
+            "valueId": 709990523,
+            "valueName": "无需合约版",
+            "propId": 10004,
+            "propName": "网络类型"
+          },
+          {
+            "valueId": 28330,
+            "valueName": "银色",
+            "propId": 1627207,
+            "propName": "机身颜色"
+          },
+          {
+            "valueId": 3222911,
+            "valueName": "64GB",
+            "propId": 12304035,
+            "propName": "存储容量"
+          }
+        ],
+        "sellableNum": 207,
+        "sellPrice": 819900,
+        "skuCode": "3809540388088"
+      },
+      {
+        "imgUrl": "//img.alicdn.com/imgextra/i4/1917047079/TB2yF71XAvoK1RjSZFNXXcxMVXa_!!1917047079.jpg",
+        "marketPrice": 819900,
+        "productProps": [
+          {
+            "valueId": 709990523,
+            "valueName": "无需合约版",
+            "propId": 10004,
+            "propName": "网络类型"
+          },
+          {
+            "valueId": 28330,
+            "valueName": "银色",
+            "propId": 1627207,
+            "propName": "机身颜色"
+          },
+          {
+            "valueId": 11835346,
+            "valueName": "256GB",
+            "propId": 12304035,
+            "propName": "存储容量"
+          }
+        ],
+        "sellableNum": 456,
+        "sellPrice": 959900,
+        "skuCode": "3809540388091"
+      },
+      {
+        "imgUrl": "//img.alicdn.com/imgextra/i4/1917047079/TB2yF71XAvoK1RjSZFNXXcxMVXa_!!1917047079.jpg",
+        "marketPrice": 819900,
+        "productProps": [
+          {
+            "valueId": 709990523,
+            "valueName": "无需合约版",
+            "propId": 10004,
+            "propName": "网络类型"
+          },
+          {
+            "valueId": 28330,
+            "valueName": "银色",
+            "propId": 1627207,
+            "propName": "机身颜色"
+          },
+          {
+            "valueId": 25484125,
+            "valueName": "512GB",
+            "propId": 12304035,
+            "propName": "存储容量"
+          }
+        ],
+        "sellableNum": 30,
+        "sellPrice": 1139900,
+        "skuCode": "3809540388094"
+      },
+      {
+        "imgUrl": "//img.alicdn.com/imgextra/i2/1917047079/TB2pAsZXpzqK1RjSZFvXXcB7VXa_!!1917047079.jpg",
+        "marketPrice": 819900,
+        "productProps": [
+          {
+            "valueId": 709990523,
+            "valueName": "无需合约版",
+            "propId": 10004,
+            "propName": "网络类型"
+          },
+          {
+            "valueId": 382328443,
+            "valueName": "深空灰色",
+            "propId": 1627207,
+            "propName": "机身颜色"
+          },
+          {
+            "valueId": 3222911,
+            "valueName": "64GB",
+            "propId": 12304035,
+            "propName": "存储容量"
+          }
+        ],
+        "sellableNum": 277,
+        "sellPrice": 819900,
+        "skuCode": "3809540388089"
+      },
+      {
+        "imgUrl": "//img.alicdn.com/imgextra/i2/1917047079/TB2pAsZXpzqK1RjSZFvXXcB7VXa_!!1917047079.jpg",
+        "marketPrice": 819900,
+        "productProps": [
+          {
+            "valueId": 709990523,
+            "valueName": "无需合约版",
+            "propId": 10004,
+            "propName": "网络类型"
+          },
+          {
+            "valueId": 382328443,
+            "valueName": "深空灰色",
+            "propId": 1627207,
+            "propName": "机身颜色"
+          },
+          {
+            "valueId": 11835346,
+            "valueName": "256GB",
+            "propId": 12304035,
+            "propName": "存储容量"
+          }
+        ],
+        "sellableNum": 654,
+        "sellPrice": 959900,
+        "skuCode": "3809540388092"
+      },
+      {
+        "imgUrl": "//img.alicdn.com/imgextra/i2/1917047079/TB2pAsZXpzqK1RjSZFvXXcB7VXa_!!1917047079.jpg",
+        "marketPrice": 819900,
+        "productProps": [
+          {
+            "valueId": 709990523,
+            "valueName": "无需合约版",
+            "propId": 10004,
+            "propName": "网络类型"
+          },
+          {
+            "valueId": 382328443,
+            "valueName": "深空灰色",
+            "propId": 1627207,
+            "propName": "机身颜色"
+          },
+          {
+            "valueId": 25484125,
+            "valueName": "512GB",
+            "propId": 12304035,
+            "propName": "存储容量"
+          }
+        ],
+        "sellableNum": 50,
+        "sellPrice": 1139900,
+        "skuCode": "3809540388095"
+      },
+      {
+        "imgUrl": "//img.alicdn.com/imgextra/i4/1917047079/TB21oE1XpzqK1RjSZFzXXXjrpXa_!!1917047079.jpg",
+        "marketPrice": 819900,
+        "productProps": [
+          {
+            "valueId": 709990523,
+            "valueName": "无需合约版",
+            "propId": 10004,
+            "propName": "网络类型"
+          },
+          {
+            "valueId": 28328,
+            "valueName": "金色",
+            "propId": 1627207,
+            "propName": "机身颜色"
+          },
+          {
+            "valueId": 3222911,
+            "valueName": "64GB",
+            "propId": 12304035,
+            "propName": "存储容量"
+          }
+        ],
+        "sellableNum": 142,
+        "sellPrice": 819900,
+        "skuCode": "3809540388090"
+      },
+      {
+        "imgUrl": "//img.alicdn.com/imgextra/i4/1917047079/TB21oE1XpzqK1RjSZFzXXXjrpXa_!!1917047079.jpg",
+        "marketPrice": 819900,
+        "productProps": [
+          {
+            "valueId": 709990523,
+            "valueName": "无需合约版",
+            "propId": 10004,
+            "propName": "网络类型"
+          },
+          {
+            "valueId": 28328,
+            "valueName": "金色",
+            "propId": 1627207,
+            "propName": "机身颜色"
+          },
+          {
+            "valueId": 11835346,
+            "valueName": "256GB",
+            "propId": 12304035,
+            "propName": "存储容量"
+          }
+        ],
+        "sellableNum": 356,
+        "sellPrice": 959900,
+        "skuCode": "3809540388093"
+      },
+      {
+        "imgUrl": "//img.alicdn.com/imgextra/i4/1917047079/TB21oE1XpzqK1RjSZFzXXXjrpXa_!!1917047079.jpg",
+        "marketPrice": 819900,
+        "productProps": [
+          {
+            "valueId": 709990523,
+            "valueName": "无需合约版",
+            "propId": 10004,
+            "propName": "网络类型"
+          },
+          {
+            "valueId": 28328,
+            "valueName": "金色",
+            "propId": 1627207,
+            "propName": "机身颜色"
+          },
+          {
+            "valueId": 25484125,
+            "valueName": "512GB",
+            "propId": 12304035,
+            "propName": "存储容量"
+          }
+        ],
+        "sellableNum": 29,
+        "sellPrice": 1139900,
+        "skuCode": "3809540388096"
+      }
+    ],
+    "shop": {
+      "shopId": "107922698"
+    },
+    "productProps": [
+      {
+        "valueId": 709990523,
+        "valueName": "无需合约版",
+        "propId": 10004,
+        "propName": "网络类型"
+      },
+      {
+        "imgUrl": "//img.alicdn.com/imgextra/i4/1917047079/TB2yF71XAvoK1RjSZFNXXcxMVXa_!!1917047079.jpg",
+        "valueId": 28330,
+        "valueName": "银色",
+        "propId": 1627207,
+        "propName": "机身颜色"
+      },
+      {
+        "imgUrl": "//img.alicdn.com/imgextra/i2/1917047079/TB2pAsZXpzqK1RjSZFvXXcB7VXa_!!1917047079.jpg",
+        "valueId": 382328443,
+        "valueName": "深空灰色",
+        "propId": 1627207,
+        "propName": "机身颜色"
+      },
+      {
+        "imgUrl": "//img.alicdn.com/imgextra/i4/1917047079/TB21oE1XpzqK1RjSZFzXXXjrpXa_!!1917047079.jpg",
+        "valueId": 28328,
+        "valueName": "金色",
+        "propId": 1627207,
+        "propName": "机身颜色"
+      },
+      {
+        "valueId": 3222911,
+        "valueName": "64GB",
+        "propId": 12304035,
+        "propName": "存储容量"
+      },
+      {
+        "valueId": 11835346,
+        "valueName": "256GB",
+        "propId": 12304035,
+        "propName": "存储容量"
+      },
+      {
+        "valueId": 25484125,
+        "valueName": "512GB",
+        "propId": 12304035,
+        "propName": "存储容量"
+      }
+    ],
+    "productDetail": "<p><img src=\"//img.alicdn.com/imgextra/i2/1917047079/O1CN01rftKD222AEFVidi5b_!!1917047079.jpg\" width=\"790\" size=\"1580x240\"><img src=\"//img.alicdn.com/imgextra/i4/1917047079/O1CN01vLqzLH22AEDs3f79B_!!1917047079.jpg\" usemap=\"#gg\" width=\"790\" size=\"1580x740\"><img src=\"//img.alicdn.com/imgextra/i3/1917047079/O1CN0122AECuihtAd62Nw_!!1917047079.jpg\" width=\"790\" size=\"1580x1970\"><img src=\"//img.alicdn.com/imgextra/i2/1917047079/O1CN0122AECvl2jCoWgdN_!!1917047079.jpg\" width=\"790\" size=\"1580x280\"><img src=\"//img.alicdn.com/imgextra/i1/1917047079/TB2kqnraqi5V1BjSsphXXaEpXXa_!!1917047079.jpg\" width=\"790\" size=\"1580x2408\"></p>",
+    "classifyId": "1512",
+    "freight": "0",
+    "upAndDown": 1,
+    "updateTime": 1562325626126,
+    "productName": "Apple/苹果 iPhone XS",
+    "platform": "TMALL",
+    "spuImgs": [
+      "//img.alicdn.com/imgextra/i3/1917047079/TB16PsYXpzqK1RjSZSgXXcpAVXa_!!0-item_pic.jpg",
+      "//img.alicdn.com/imgextra/i3/1917047079/TB2AHQYXwDqK1RjSZSyXXaxEVXa_!!1917047079.jpg",
+      "//img.alicdn.com/imgextra/i3/1917047079/TB2.1oZXpzqK1RjSZFzXXXjrpXa_!!1917047079.jpg",
+      "//img.alicdn.com/imgextra/i2/1917047079/TB2Pk7WXCzqK1RjSZPxXXc4tVXa_!!1917047079.jpg"
+    ],
+    "spuCode": "577249277344",
+    "beginCount": 0,
+    "productUrl": "https://detail.tmall.com/item.htm?id=577249277344",
+    "businessType": 1
+  },
+  "msg": "success",
+  "state": 0
+}

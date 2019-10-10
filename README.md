@@ -1,2 +1,1 @@
-# note
-笔记，随笔，博客。
+- `function_programming` 函数式编程，示例代码，文档，keynote。
